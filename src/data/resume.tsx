@@ -2,8 +2,8 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Sadish Adilmin",
-  initials: "SA",
+  name: "Sadisha Dilmin",
+  initials: "SD",
   url: "https://sadishadilmin.com",
   location: "Remote",
   locationLink: "#",
@@ -25,6 +25,7 @@ export const DATA = {
     "Azure",
     "Kafka",
     "MongoDB",
+    "Twilio",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
